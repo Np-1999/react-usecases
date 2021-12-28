@@ -2,7 +2,7 @@
 
 # Usecases to cover
 
-- [x] 1. Create itemlist from an array
+[x] 1. Create itemlist from an array
 
 Code in scenario-1
 
