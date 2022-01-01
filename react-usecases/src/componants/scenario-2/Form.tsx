@@ -21,7 +21,8 @@ const Form = function Form() {
   }
 
   function handleSubmit(event:React.SyntheticEvent) {
-    console.log(state.Name);
+    // eslint-disable-next-line no-alert
+    alert(state.Name);
     event.preventDefault();
   }
   return (
